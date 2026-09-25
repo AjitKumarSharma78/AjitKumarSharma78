@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **MERN Stack & DSA**
 - 🔨 Building real-world projects (Portfolio, E-Commerce, Food Delivery)
-- 🎓 B.Tech (6th Semester – Pursuing)
+- 🎓 B.Tech (7th Semester – Pursuing)
 - 💡 Passionate about clean code & problem solving
 - 📫 Reach me at: **as5769147@gmail.com**
 
